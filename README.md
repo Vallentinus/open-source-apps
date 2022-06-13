@@ -1,4 +1,4 @@
-# This repository is prepared for those who are new to linux or who are looking for a Windows alternative applications.
+# This repository is prepared for those who are new to linux or who are looking for a Windows alternative application.
 
 ## Office
 
